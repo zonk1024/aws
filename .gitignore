@@ -1,0 +1,4 @@
+*.swp
+*.pyc
+*.pem
+deploy.sh

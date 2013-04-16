@@ -1,0 +1,17 @@
+settings = {
+    'hostname'            : '',
+    'repouser'            : '',
+    'repo'                : '',
+    'gituser'             : '',
+    'gitemail'            : '',
+    'branchname'          : 'master',
+    'image'               : '',
+    'dm_dir'              : '',
+    'additional_packages' : '',
+    'api_key'             : '',
+    'secret_key'          : '',
+    'script_template'     : 'deploy.tpl',
+    'mysql_password'      : 'password',
+    'debug'               : False,
+    'known_hosts'         : '',
+}
